@@ -133,7 +133,7 @@ swal-wide {
 
 @media (max-width: 767px) {
     .scrollable-div {
-        max-height: 250px;
+        max-height: 350px;
     }
 
     #text-footer {
